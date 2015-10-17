@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="is.ru.stringcalculator.CalculatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2015-10-15T23:33:01" hostname="ubuntu" time="0.016">
+<testsuite name="is.ru.stringcalculator.CalculatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2015-10-17T16:47:19" hostname="ubuntu" time="0.016">
   <properties/>
-  <testcase name="testMultipleLongCustomDelimeter" classname="is.ru.stringcalculator.CalculatorTest" time="0.009"/>
-  <testcase name="testMixedDelimeters" classname="is.ru.stringcalculator.CalculatorTest" time="0.001"/>
+  <testcase name="testMultipleLongCustomDelimeter" classname="is.ru.stringcalculator.CalculatorTest" time="0.01"/>
+  <testcase name="testMixedDelimeters" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <testcase name="testCustomDelimeter" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <testcase name="testMultipleNegativeNumber" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <testcase name="testMultipleNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
-  <testcase name="testMultipleNumbersEvenMore" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
-  <testcase name="testMultipleCustomDelimeter" classname="is.ru.stringcalculator.CalculatorTest" time="0.001"/>
+  <testcase name="testMultipleNumbersEvenMore" classname="is.ru.stringcalculator.CalculatorTest" time="0.001"/>
+  <testcase name="testMultipleCustomDelimeter" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <testcase name="testEmptyString" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
-  <testcase name="testNegativeNumber" classname="is.ru.stringcalculator.CalculatorTest" time="0.002"/>
+  <testcase name="testNegativeNumber" classname="is.ru.stringcalculator.CalculatorTest" time="0.001"/>
   <testcase name="testLargeNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <testcase name="testLongCustomDelimeter" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <testcase name="testTwoNumbers" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
-  <testcase name="testOneNumber" classname="is.ru.stringcalculator.CalculatorTest" time="0.001"/>
+  <testcase name="testOneNumber" classname="is.ru.stringcalculator.CalculatorTest" time="0.0"/>
   <system-out><![CDATA[[1, , , , , , , 2, , , , , 3]
 [1, 2, 3]
 [1, 2, 3]

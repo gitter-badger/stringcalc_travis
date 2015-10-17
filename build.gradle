@@ -13,6 +13,7 @@ sourceSets {
     main.java.srcDir "src/main"
 }
 
+task stage(dependsOn: ['clean', 'installApp'])
 
 //  jar {
 //    manifest.attributes "Main-Class": "is.ru.stringcalculator.Calculator"
